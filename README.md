@@ -6,4 +6,4 @@
 EMAIL：jinhualee@126.com <br>
 
 ## “丁香智学”微信二维码：<br><br>
-<center>![Lapland](https://github.com/jinhualee/datashine/blob/master/Datashine.jpg)</center>
+![image](https://github.com/jinhualee/datashine/blob/master/Datashine.jpg)
