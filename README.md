@@ -6,5 +6,5 @@
 EMAIL：jinhualee@126.com <br>
 ## "丁香智学"微信二维码<br>
 <p align='center'>
-![DataShine](https://github.com/jinhualee/datashine/blob/master/Datashine.jpg)
-  </p>
+<img src='https://github.com/jinhualee/datashine/blob/master/Datashine.jpg' />
+ </p>
