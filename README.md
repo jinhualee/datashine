@@ -6,8 +6,8 @@
 EMAIL：jinhualee@126.com <br>
 ## "丁香智学"微信二维码<br>
 <p align='center'>
-<img src='https://github.com/jinhualee/datashine/blob/master/Datashine.jpg' />
- </p>
-##  "丁香智学"技术交流QQ群<br>
+ <img src='https://github.com/jinhualee/datashine/blob/master/Datashine.jpg' />
+</p>
+## "丁香智学"技术交流QQ群<br>
 QQ群名：丁香智学
 QQ群号：163549660
