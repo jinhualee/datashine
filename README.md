@@ -28,5 +28,5 @@ QQ群号：163549660<br>
 （3）掌握StatsModels统计包的基本用法<br>
 （4）掌握数据分析的中高级统计建模方法。<br>
 课程地址：<br>
-（1）腾讯课堂：https://ke.qq.com/course/3063719?tuin=f6d1673 <br>
-（2）CSDN学院：https://edu.csdn.net/course/detail/30972 <br>
+（1）![腾讯课堂](https://ke.qq.com/course/3063719?tuin=f6d1673) <br>
+（2）![CSDN学院](https://edu.csdn.net/course/detail/30972) <br>
