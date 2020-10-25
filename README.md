@@ -1,4 +1,4 @@
-## <p align='center'>DataShine——"丁香智学"专注于数据分析、量化研究与深度学习的培训机构<br> </p>
+## <p align='center'>DataShine—"丁香智学"专注于数据分析、量化研究与深度学习的培训机构<br> </p>
 ## 一、课程信息<br>
 ### 1、多元线性回归模型的参数与统计量深度解读——应用Python的StatsModels包<br>
 本课程的源代码：[statsmodels_ols.ipynb](https://github.com/jinhualee/datashine/blob/master/statsmodels_ols.ipynb) <br>
