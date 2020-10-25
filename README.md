@@ -4,16 +4,16 @@
 曾带领团队开发《葛洲坝集团三峡工程指挥中心施工管理系统》、《湖北省国有企事业单位资产管理系统》、《湖北省畜牧业管理系统》等商业应用系统。<br>
 在大学任职期间获得教育部和国家社科基金项目各一项。专著、教材和译著各一部，发表学术论文30余篇。主讲《管理信息系统》、《信息系统分析分析与设计》、《数据结构与算法》、《信息分析》、《信息检索技术》等课程。<br>
 EMAIL：jinhualee@126.com <br>
-## "丁香智学"微信二维码<br>
+## 二、"丁香智学"微信二维码<br>
 <p align='center'>
  <img src='https://github.com/jinhualee/datashine/blob/master/Datashine.jpg' />
 </p><br>
 
-##二、 "丁香智学"技术交流QQ群<br>
+## 三、 "丁香智学"技术交流QQ群<br>
 QQ群名：丁香智学 <br>
 QQ群号：163549660<br>
 
-## 三、课程信息<br>
+## 四、课程信息<br>
 ### 1、多元线性回归模型的参数与统计量深度解读——应用Python的StatsModels包<br>
 本课程的源代码基于：https://github.com/jinhualee/datashine/blob/master/statsmodels_ols.ipynb <br>
 本课程为基于Python的数据分析和统计建模高级课程，针对多元线性回归模型的各种参数和统计量，通过Python代码手工复现，在代码复现的过程中结合数学公式和原理进行深入解读。这些统计量包括：回归系数参数估计、决定系数R方及调整后R方、F统计量以及F检验、对数似然、AIC、BIC、回归系数标准差和显著性t检验、回归系数置信区间、峰度与偏度、Jarque-Bera检验、Omnibus检验、Durbin-Watson检验、条件数、方差膨胀系数以及补充知识。<br>
