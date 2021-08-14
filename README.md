@@ -18,6 +18,8 @@
 第7章 主成分分析、因子分析与典型相关分析
 
 第8章 非参数统计<br>
+#### 思维导图
+<img src='https://github.com/jinhualee/datashine/blob/master/Python%E7%BB%9F%E8%AE%A1%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%AE%9E%E6%88%98.jpg'>
 ###   适用人群：<br>
 （1）利用Python进行数据分析&大数据分析的程序员<br>
 （2）用量化方法进行科学研究的学者和老师<br>
