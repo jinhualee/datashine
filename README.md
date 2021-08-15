@@ -20,8 +20,8 @@
 第8章 非参数统计<br>
 
 ### <font color='blue'>课程地址</font><br>
-腾讯课堂：https://ke.qq.com/course/3707162?tuin=f6d1673 <br>
-CSDN：https://edu.csdn.net/course/detail/35174 <br>
+（1）腾讯课堂：https://ke.qq.com/course/3707162?tuin=f6d1673 <br>
+（2）CSDN：https://edu.csdn.net/course/detail/35174 <br>
 
 ### 详细内容
 <img src='https://github.com/jinhualee/datashine/blob/master/content.jpg' style="zoom:50%" height='50%' alt='课程内容思维导图'/>
