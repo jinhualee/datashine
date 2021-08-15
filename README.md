@@ -23,8 +23,6 @@
 （1）腾讯课堂：https://ke.qq.com/course/3707162?tuin=f6d1673 <br>
 （2）CSDN：https://edu.csdn.net/course/detail/35174 <br>
 
-### 详细内容
-<img src='https://github.com/jinhualee/datashine/blob/master/content.jpg'  alt='课程内容思维导图'/>
 
 ###   适用人群：<br>
 （1）利用Python进行数据分析&大数据分析的程序员<br>
@@ -52,3 +50,5 @@ QQ群名：丁香智学 <br>
 QQ群号：163549660<br>
 微信号：DataShine
 
+## 附：课程思维导图
+<img src='https://github.com/jinhualee/datashine/blob/master/content.jpg'  alt='课程内容思维导图'/>
