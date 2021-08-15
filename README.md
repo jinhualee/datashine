@@ -44,7 +44,7 @@
 EMAIL：jinhualee@126.com <br>
 ## 三、"丁香智学"微信二维码与技术交流QQ群<br>
 微信号：DataShine <br>
-<img src='https://github.com/jinhualee/datashine/blob/master/Datashine.jpg' />
+<img src='https://github.com/jinhualee/datashine/blob/master/Datashine.jpg' alt='微信二维码'/>
 <br>
 QQ群名：丁香智学 <br>
 QQ群号：163549660<br>
