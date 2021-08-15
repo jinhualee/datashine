@@ -19,7 +19,7 @@
 
 第8章 非参数统计<br>
 
-### <font color='blue'>课程地址：</font><br>
+### <font color='blue'>课程地址</font><br>
 腾讯课堂：https://ke.qq.com/course/3707162?tuin=f6d1673 <br>
 CSDN：https://edu.csdn.net/course/detail/35174 <br>
 
