@@ -24,7 +24,7 @@
 CSDN：https://edu.csdn.net/course/detail/35174 <br>
 
 ### 详细内容
-<img src='https://github.com/jinhualee/datashine/blob/master/content.jpg', alt='课程内容思维导图' width=60%/>
+<img src='https://github.com/jinhualee/datashine/blob/master/content.jpg', alt='课程内容思维导图', width=60% />
 
 ###   适用人群：<br>
 （1）利用Python进行数据分析&大数据分析的程序员<br>
