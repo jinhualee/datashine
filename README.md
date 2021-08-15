@@ -27,9 +27,8 @@
 注：详细内容见文末的思维导图
 
 ### <font color='blue'>课程地址</font><br>
-（1）腾讯课堂：https://ke.qq.com/course/3707162?tuin=f6d1673 <br>
-（2）CSDN：https://edu.csdn.net/course/detail/35174 <br>
-
+（1）CSDN（有免费体验课程）：https://edu.csdn.net/course/detail/35174 <br>
+（2）腾讯课堂：https://ke.qq.com/course/3707162?tuin=f6d1673 <br>
 
 ###   适用人群：<br>
 （1）准备毕业后从事统计与数据分析行业的大学毕业生或准毕业生。尤其是需要转向从事计算机编程、数据分析和机器学习方面工作的毕业生，或者需要提升技能以寻找高薪酬工作的准毕业生等。<br>
