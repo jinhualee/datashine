@@ -19,6 +19,8 @@
 
 第8章 非参数统计<br>
 
+注：详细内容见文末的思维导图
+
 ### <font color='blue'>课程地址</font><br>
 （1）腾讯课堂：https://ke.qq.com/course/3707162?tuin=f6d1673 <br>
 （2）CSDN：https://edu.csdn.net/course/detail/35174 <br>
