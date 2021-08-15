@@ -18,8 +18,13 @@
 第7章 主成分分析、因子分析与典型相关分析
 
 第8章 非参数统计<br>
+
+### <font color='blue'>课程地址：</font><br>
+腾讯课堂：https://ke.qq.com/course/3707162?tuin=f6d1673 <br>
+CSDN：https://edu.csdn.net/course/detail/35174 <br>
+
 ### 详细内容
-<img src='https://github.com/jinhualee/datashine/blob/master/content.jpg', alt='课程内容思维导图'>
+<img src='https://github.com/jinhualee/datashine/blob/master/content.jpg', alt='课程内容思维导图' width=60%/>
 
 ###   适用人群：<br>
 （1）利用Python进行数据分析&大数据分析的程序员<br>
@@ -32,9 +37,7 @@
 （3）掌握StatsModels统计包的基本用法<br>
 （4）掌握数据分析的中高级统计建模方法。<br>
 
-### <font color='blue'>课程地址：</font><br>
-腾讯课堂：https://ke.qq.com/course/3707162?tuin=f6d1673 <br>
-CSDN：https://edu.csdn.net/course/detail/35174 <br>
+
 
 ## 二、"丁香智学"创办人简介<br>
 “丁香智学”创办人李进华博士，本、硕、博毕业于武汉大学信息管理学院，2005年进入211大学任教，2012年受聘为教授。长期从事IT相关课程教学、科研和系统开发。是国内最早从事Java开发的程序员和Oracle数据库的DBA之一，具备丰富的教育培训与商业应用系统开发经验。<br>
