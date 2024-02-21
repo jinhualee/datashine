@@ -26,10 +26,6 @@
 
 注：详细内容见文末的思维导图。
 
-### 课程地址<br>
-（1）CSDN（有免费体验课程）：https://edu.csdn.net/course/detail/35174 <br>
-
-（2）腾讯课堂：https://ke.qq.com/course/3707162?tuin=f6d1673 <br>
 
 
 ###   适用人群：<br>
