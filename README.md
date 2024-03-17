@@ -54,10 +54,7 @@
 微信号：DataShine <br>
 <img src='https://github.com/jinhualee/datashine/blob/master/Datashine.jpg' alt='微信二维码'/>
 <br>
-QQ群名：**丁香智学** <br>
-QQ群号：**163549660**(已满，请加3群)<br>
-<br>
-QQ群名：**丁香智学③群**<br>
+QQ群名：**丁香智学**<br>
 QQ群号：**602889855**<br>
 
 
