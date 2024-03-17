@@ -50,10 +50,8 @@
 
 （6）掌握数据分析和统计建模的模型与算法，是拿到高薪Offer的最佳途径，更是以后提薪提职的最大保障。<br>
 
-## 二、"丁香智学"微信二维码与技术交流QQ群<br>
-微信号：DataShine <br>
-<img src='https://github.com/jinhualee/datashine/blob/master/Datashine.jpg' alt='微信二维码'/>
-<br>
+## 二、"丁香智学"技术交流QQ群<br>
+
 QQ群名：**丁香智学**<br>
 QQ群号：**602889855**<br>
 
