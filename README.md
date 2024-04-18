@@ -1,6 +1,6 @@
 ## <p align='center'>DataShine"德尚智学": 专注于数据分析、量化研究与深度学习的培训机构<br> </p>
 
-<p align='center'><img src=deshang.png/> </p>
+<p align='center'><img src=deshang.png width=150px /> </p>
 
 ## 一、课程信息<br>
 ### 课程名：《Python统计与数据分析实战》<br>
