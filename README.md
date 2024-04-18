@@ -1,4 +1,6 @@
+ <p align='center'<img src=logo.png width=150px></p>
 ## <p align='center'>DataShine"德尚智学": 专注于数据分析、量化研究与深度学习的培训机构<br> </p>
+
 ## 一、课程信息<br>
 ### 课程名：《Python统计与数据分析实战》<br>
 
@@ -59,7 +61,7 @@ QQ群号：**602889855**<br>
 ## 三、"德尚智学"创办人简介<br>
 “德尚智学”创办人李进华教授，本、硕、博毕业于武汉大学信息管理学院，2005年进入211大学任教，2012年受聘为教授。长期从事IT相关课程教学、科研和系统开发。是国内最早从事Java开发的程序员之一和Oracle数据库DBA之一，具备丰富的教育培训与商业应用系统开发经验。<br>
 
-<center><img src=logo.png width=150px></center>
+
 
 EMAIL：jinhualee@126.com <br>
 
