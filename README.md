@@ -1,5 +1,7 @@
 ## <p align='center'>DataShine"德尚智学": 专注于数据分析、量化研究与深度学习的培训机构<br> </p>
+
 <p align='center'><img src=datashine.jpg/> </p>
+
 ## 一、课程信息<br>
 ### 课程名：《Python统计与数据分析实战》<br>
 
@@ -69,4 +71,4 @@ EMAIL：jinhualee@126.com <br>
 ## 附：课程思维导图
 <img src='https://github.com/jinhualee/datashine/blob/master/content.jpg'  alt='课程内容思维导图'/>
 
-<p align='center'<img src=logo.png width=150px /></p>
+<p align='center'><img src=logo.png width=150px /></p>
