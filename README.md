@@ -17,7 +17,7 @@
 ### 支付方式
 * 支付时请注明“德尚智学数据分析课程”
 * 微信收款码:
-[<img src=[weixin_payment.png](https://github.com/jinhualee/pics/blob/main/weixin_payment.jpg) width=300px />](https://github.com/jinhualee/pics/blob/main/weixin_payment.jpg)
+<img src=https://github.com/jinhualee/pics/blob/main/weixin_payment.jpg width=300px />
   
 ### 系统网页
 * 德尚智学主页：
