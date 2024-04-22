@@ -15,9 +15,10 @@
 * 课程内容丰富实用：共200个视频，总长2800分钟。
 * 获得后续课程的8折优惠，包括：深度学习、机器学习、计量经济学与计量经济分析、数据可视化、时间序列分析等实战课程和优质视频。
 ### 支付方式
-* 支付时请注明“德尚智学数据分析课程”
+* 现仅支持微信支付。
+* 支付时请注明“德尚智学数据分析课程”。
 * 微信收款码:
-<img src=https://github.com/jinhualee/pics/blob/main/weixin_payment.jpg width=300px />
+<img src=https://github.com/jinhualee/pics/blob/main/weixin_payment.jpg width=150px />
   
 ### 系统网页
 * 德尚智学主页：
