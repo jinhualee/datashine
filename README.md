@@ -1,4 +1,4 @@
-## <p align='center'>DataShine"德尚智学": 专注于数据科学、机器学习、深度学习、大语言模型的培训机构<br> </p>
+## <p align='center'>DataShine"德尚智学": 专注于数据科学、机器学习、深度学习与大语言模型的培训机构<br> </p>
 
 <p align='center'><img src=deshang.png width=150px /> </p>
 
