@@ -10,11 +10,15 @@
 ### 系统网页
 * 德尚智学主页：
   
-<img src=mainpage.png width=150px />
+<img src=mainpage.png width=300px />
+
+* 课程介绍页面:
+  
+<img src=stats2.png width=300px />
 
 * 课程视频页面:
   
-<img src=stats.png width=150px />
+<img src=stats1.png width=300px />
 
 ### 课程目录
 
