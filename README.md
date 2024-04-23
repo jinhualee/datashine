@@ -16,7 +16,7 @@
 ### 支付方式
 * 支持微信支付，支付时请注明“德尚智学数据分析课程”。
 * 微信收款码:
-<img src=https://github.com/jinhualee/imgs/blob/main/weixin_payment.jpg width=150px />
+<img src=https://github.com/jinhualee/images/blob/main/weixin_payment.jpg width=150px />
 
 * 如若不愿使用微信支付，可通过后面的微信二维码加微信后直接联系，或通过微信号DataShine添加**德尚智学**微信好友。
 * 也可以通过QQ号添加好友：258807411。
